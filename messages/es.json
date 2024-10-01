@@ -1,0 +1,14 @@
+{
+    "welcome": "Bienvenidos a mi app!",
+    "home": "Pagina de inicio",
+    "about": "Acerca de ",
+    "userLogged": "Usuario logueado",
+    "buttonSignIn": "Iniciar sesión",
+    "buttonSignOut": "Cerrar sesión",
+    "HomePage": {
+        "title": "Inicio en español",
+        "config": {
+            "role": "administrador"
+        }
+    }
+}
